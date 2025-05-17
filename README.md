@@ -20,23 +20,9 @@ The **Movie Search App** is a full-stack web application that allows users to se
 - Responsive UI
 - Backend proxy server to protect API keys
 
-## 📁 Project Structure
+## 📁 Project Structure url-
 
-movie-search-app/
-│
-├── client/ # React frontend
-│ ├── public/
-│ └── src/
-│ ├── components/
-│ ├── App.js
-│ └── index.js
-│
-├── server/ # Node.js backend
-│ ├── index.js
-│ └── .env # Contains OMDB API key
-│
-└── README.md
-
+https://tree.nathanfriend.com/?s=(%27optiLs!(%27fancyF~fullPathF~trailingSlash!false~rootDotF)~K(%27K%27movie-search-app%2F73cliQtHJ8frLtYpubliT4srT36sHReusable%20UIXs53AppWMainV86549ntry%20poin8forVt73serverHNode.jGbackY9xpresGserver%20setup54.Qv2CLtainGOMDB%20API%20key74README.md2Projec8documQtatiL%27)~versiL!%271%27)*%E2%94%80%E2%94%80%207%E2%94%822%20%23%203%E2%94%9C*4%E2%94%94*50XcompLQt70%5Cn8t%209indexWEF!trueGs%20H%2F2JReacKsource!LonQenTc%2F5V%20JW.js2X%206YQd53%01YXWVTQLKJHGF987654320*
 
 ## 🔧 Setup Instructions
 
