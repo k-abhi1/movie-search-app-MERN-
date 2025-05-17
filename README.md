@@ -43,7 +43,7 @@ movie-search-app/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/k-abhi1/movie-search-app-MERN-.git
+git clone https://github.com/k-abhi1/movie-search-app-MERN
 cd movie-search-app
 
 cd server
